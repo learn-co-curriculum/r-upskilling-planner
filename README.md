@@ -1,10 +1,22 @@
 # Overview of R Upskilling 
 
-* [ ] Create Overview Planning Document for Tracking 
+* [X] Create Overview Planning Document for Tracking 
 * [ ] Create repository for all nine lessons 
-* [ ] Create learning objectives for all nine lessons
+* [X] Create learning objectives for all nine lessons
 * [ ] ADD Section for Individual Time Estimates 
 * [ ] Link in template lesson for copying 
+
+## Repo Names
+
+* dsc-r-to-python-an-overview
+* dsc-installing-r
+* dsc-r-base-ics-1
+* dsc-r-base-ics-2
+* dsc-r-intro-to-tidyverse
+* dsc-r-intro-to-ggplot2
+* dsc-r-intro-to-ggplot2-lab
+* dsc-r-intro-to-tidymodels
+* dsc-r-intro-to-tidymodels-lab 
 
 ## Persona for Lessons
 
