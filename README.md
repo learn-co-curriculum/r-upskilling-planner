@@ -6,6 +6,24 @@
 * [ ] ADD Section for Individual Time Estimates 
 * [ ] Link in template lesson for copying 
 
+## WIP Repos 
+
+* [dsc-r-to-python-an-overview](https://github.com/learn-co-curriculum/  dsc-r-to-python-an-overview)
+* [dsc-installing-r] (https://github.com/learn-co-curriculum/  dsc-installing-r)
+* [dsc-r-base-ics-1](https://github.com/learn-co-curriculum/  dsc-r-base-ics-1)
+* [dsc-r-base-ics-2](https://github.com/learn-co-curriculum/  dsc-r-base-ics-2)
+* [dsc-r-intro-to-tidyverse](https://github.com/learn-co-curriculum/  dsc-r-intro-to-tidyverse)
+* [dsc-r-intro-to-ggplot2](https://github.com/learn-co-curriculum/  dsc-r-intro-to-ggplot2)
+* [dsc-r-intro-to-ggplot2-lab](https://github.com/learn-co-curriculum/  dsc-r-intro-to-ggplot2-lab)
+* [dsc-r-intro-to-tidymodels](https://github.com/learn-co-curriculum/  dsc-r-intro-to-tidymodels)
+* [dsc-r-intro-to-tidymodels-lab] (https://github.com/learn-co-curriculum/  dsc-r-intro-to-tidymodels-lab)
+
+## Goals 
+
+* May 15th -- Repos and outline made
+* May 22nd -- All Rough Draft written 
+* May 27th -- Second Pass on drafts  
+
 ## Repo Names
 
 * dsc-r-to-python-an-overview
