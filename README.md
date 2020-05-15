@@ -16,7 +16,7 @@
 * [dsc-r-intro-to-ggplot2](https://github.com/learn-co-curriculum/dsc-r-intro-to-ggplot2)
 * [dsc-r-intro-to-ggplot2-lab](https://github.com/learn-co-curriculum/dsc-r-intro-to-ggplot2-lab)
 * [dsc-r-intro-to-tidymodels](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidymodels)
-* [dsc-r-intro-to-tidymodels-lab] (https://github.com/learn-co-curriculum/dsc-r-intro-to-tidymodels-lab)
+* [dsc-r-intro-to-tidymodels-lab](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidymodels-lab)
 
 ## Goals 
 
