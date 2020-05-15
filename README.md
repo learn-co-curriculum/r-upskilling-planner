@@ -9,7 +9,7 @@
 ## WIP Repos 
 
 * [dsc-r-to-python-an-overview](https://github.com/learn-co-curriculum/  dsc-r-to-python-an-overview)
-* [dsc-installing-r] (https://github.com/learn-co-curriculum/  dsc-installing-r)
+* [dsc-installing-r](https://github.com/learn-co-curriculum/  dsc-installing-r)
 * [dsc-r-base-ics-1](https://github.com/learn-co-curriculum/  dsc-r-base-ics-1)
 * [dsc-r-base-ics-2](https://github.com/learn-co-curriculum/  dsc-r-base-ics-2)
 * [dsc-r-intro-to-tidyverse](https://github.com/learn-co-curriculum/  dsc-r-intro-to-tidyverse)
