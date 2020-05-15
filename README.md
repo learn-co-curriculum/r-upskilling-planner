@@ -1,7 +1,7 @@
 # Overview of R Upskilling 
 
 * [X] Create Overview Planning Document for Tracking 
-* [ ] Create repository for all nine lessons 
+* [X] Create repository for all nine lessons 
 * [X] Create learning objectives for all nine lessons
 * [ ] ADD Section for Individual Time Estimates 
 * [ ] Link in template lesson for copying 
@@ -56,21 +56,21 @@ Jordan is not able to work on an online IDE and to learn R must get it on their 
 
 Learning Objectives:
 
-* [ ] Explain why a data scientist might want to know both R and Python 
-* [ ] List common misconceptions about all things R vs Python
-* [ ] Identify parallel packages in a data scientist's workflow between R and Python
-* [ ] List major syntax similarities and differences between R and Python  
+* [X] Explain why a data scientist might want to know both R and Python 
+* [X] List common misconceptions about all things R vs Python
+* [X] Identify parallel packages in a data scientist's workflow between R and Python
+* [X] List major syntax similarities and differences between R and Python  
 
 ## Installing R 
 
-* [ ] Have base R installed on a computer
-* [ ] Have Rstudio installed on their computer
-* [ ] Install the tidyverse 
-* [ ] Run commands in editor, notice that it shows in global environment 
-* [ ] Execute tips script using library 
-* [ ] Examine tips output in console 
-* [ ] Change color of RStudio 
-* [ ] Get R Markdown to work 
+* [X] Have base R installed on a computer
+* [X] Have Rstudio installed on their computer
+* [X] Install the tidyverse 
+* [X] Run commands in editor, notice that it shows in global environment 
+* [X] Execute tips script using library 
+* [X] Examine tips output in console 
+* [X] Change color of RStudio 
+* [X] Get R Markdown to work 
 
 ## Basic Syntax: Part 1 
 
