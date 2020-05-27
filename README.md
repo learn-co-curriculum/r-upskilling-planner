@@ -1,43 +1,19 @@
 # Overview of R Upskilling 
 
-* [X] Create Overview Planning Document for Tracking 
-* [X] Create repository for all nine lessons 
-* [X] Create learning objectives for all nine lessons
-* [ ] ADD Section for Individual Time Estimates 
-* [ ] Link in template lesson for copying 
-
-### Critique 
+### Ready for Critique 
 
 * [dsc-r-to-python-an-overview](https://github.com/learn-co-curriculum/dsc-r-to-python-an-overview)
 * [dsc-installing-r](https://github.com/learn-co-curriculum/dsc-installing-r)
 * [dsc-r-base-ics-1](https://github.com/learn-co-curriculum/dsc-r-base-ics-1)
 * [dsc-r-base-ics-2](https://github.com/learn-co-curriculum/dsc-r-base-ics-2)
+* [dsc-intro-to-tidyverse](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidyverse)
+* [dsc-intro-to-ggplot2](https://github.com/learn-co-curriculum/dsc-r-intro-to-ggplot2)
+* [dsc-intro-to-ggplot2-lab](https://github.com/learn-co-curriculum/dsc-r-intro-to-ggplot2-lab)
 
 ### WIP 
 
-* [dsc-r-intro-to-tidyverse](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidyverse)
-* [dsc-r-intro-to-ggplot2](https://github.com/learn-co-curriculum/dsc-r-intro-to-ggplot2)
-* [dsc-r-intro-to-ggplot2-lab](https://github.com/learn-co-curriculum/dsc-r-intro-to-ggplot2-lab)
-* [dsc-r-intro-to-tidymodels](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidymodels)
-* [dsc-r-intro-to-tidymodels-lab](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidymodels-lab)
-
-## Goals 
-
-* May 15th -- Repos and outline made
-* May 22nd -- All Rough Draft written 
-* May 27th -- Second Pass on drafts  
-
-## Repo Names
-
-* dsc-r-to-python-an-overview
-* dsc-installing-r
-* dsc-r-base-ics-1
-* dsc-r-base-ics-2
-* dsc-r-intro-to-tidyverse
-* dsc-r-intro-to-ggplot2
-* dsc-r-intro-to-ggplot2-lab
-* dsc-r-intro-to-tidymodels
-* dsc-r-intro-to-tidymodels-lab 
+* [dsc-intro-to-tidymodels](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidymodels)
+* [dsc-intro-to-tidymodels-lab](https://github.com/learn-co-curriculum/dsc-r-intro-to-tidymodels-lab)
 
 ## Persona for Lessons
 
@@ -111,10 +87,5 @@ Learning Objectives:
 ## TidyModels: Lab 
 
 * [ ] Design own lab !
-
-
-
-
-
 
 
